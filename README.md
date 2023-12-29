@@ -1,0 +1,1 @@
+Aplikasi List Github merupakan aplikasi untuk menampilkan list Github User yang datanya berasal dari API, dapat melakukan searching, dapat menampilkan detail user berupa following dan follower, dapat menambahkan favorite user,  dapat menampilkan list favorite, dan dapat mengubah tampilan menjadi dark mode
