@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_setting"
+        android:title="@string/search"
+        android:icon="@drawable/baseline_brightness_6_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="@string/favorite"
+        app:showAsAction="always" />
+
+</menu>
